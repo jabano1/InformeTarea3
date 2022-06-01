@@ -83,8 +83,25 @@ NRC: 7318
 
 ![Conexion](https://user-images.githubusercontent.com/105677231/171327247-3baa0902-5c37-4d61-85b8-b7c9ae9434ea.JPG)
 
--Con esta configuracion se pueden medir todas las resistencias ya que la corriente se mide en serie.
+-Con esta configuracion se pueden medir todas las resistencias ya que la corriente se mide en serie. Colocando un amperimetro a continuacion de cada resistencia.
 
+**10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.**
+
+- La resistencia total en un circuito en serie, es la suma algebraica de todas las resistencias.
+
+- La respuesta es: **RT= 1Ω+ 2.2Ω+ 5.6Ω+ 12Ω+ 22Ω**, se obtiene: **RT= 42.8Ω**
+
+**12. Calcule la RT en cada circuito de la figura 5-71.**
+
+-Figura 5-71
+
+![figura 5-71](https://user-images.githubusercontent.com/105677231/171328307-6e69890a-dcf0-4eb9-aa37-785826164460.JPG)
+
+**a):** La resistencia total es **RT=R1+R2+R3**, reemplazando **RT=1KΩ+5.6KΩ+2.2KΩ**, se obtiene: **RT=8.8KΩ**
+
+**b):** La resistencia total es **RT=R1+R2+R3**, reemplazando **RT=4.7Ω+10Ω+12Ω+1Ω**, se obtiene: **RT=27.7Ω**
+
+**c):** La resistencia total es **RT=R1+R2+R3**, reemplazando **RT=1MΩ+ 0.56MΩ +5.6MΩ +0.68MΩ +10MΩ**, se obtiene: **RT=17.84MΩ**
 
 **4. Video**
 

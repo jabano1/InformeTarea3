@@ -127,11 +127,30 @@ NRC: 7318
 
 ![figura 5-73](https://user-images.githubusercontent.com/105677231/171334687-6445fcd5-17c5-4852-8369-22b3d62f6b04.JPG)
 
+-Las soluciones son:
+
+![1era pos](https://user-images.githubusercontent.com/105677231/171425557-2a301370-dfad-4635-b30b-6729c43a433f.JPG)
+
+![2da pos](https://user-images.githubusercontent.com/105677231/171425594-a2087744-dfd1-4705-ab59-24a2928bea29.JPG)
+
+![3ra pos](https://user-images.githubusercontent.com/105677231/171425616-9961d2d6-798f-4b7c-92ef-e83d41f001ac.JPG)
+
+![4ta pos](https://user-images.githubusercontent.com/105677231/171425643-bd7f5bf5-7411-44c6-9152-1908577dd19a.JPG)
+
+
 **20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.**
 
 -Figura 5-74
 
 ![fg 5-74](https://user-images.githubusercontent.com/105677231/171335118-13246c46-ef4a-4bd6-b879-48916689e75d.JPG)
+
+
+Las soluciones respectivas:
+
+![20](https://user-images.githubusercontent.com/105677231/171416685-9dd622fd-db45-4340-9b4d-1c0815737f29.JPG)
+
+![20 1](https://user-images.githubusercontent.com/105677231/171416710-12d62b71-1198-4336-85b3-d34e907ec103.JPG)
+
 
 **22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?**
 
@@ -145,9 +164,14 @@ NRC: 7318
 
 ![f 5-76](https://user-images.githubusercontent.com/105677231/171343673-8a047e91-f4b4-407a-917a-900c1e74d2c2.JPG)
 
+La solucion es:
+
+![24](https://user-images.githubusercontent.com/105677231/171417030-d6570f15-b2ea-41eb-b3d7-bc34daf61411.JPG)
+
 **26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.**
 
 ![f 5-78](https://user-images.githubusercontent.com/105677231/171346525-8745ecfc-de78-432e-9a78-a49595873938.JPG)
+
 
 **28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?**
 

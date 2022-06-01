@@ -119,9 +119,32 @@ NRC: 7318
 
 -1 resistencia de **1kΩ**
 
--Sumadas todas estas resistencias se obtiene **RT= 16.8kΩ+ 0.2kΩ +1kΩ**, **RT=18kΩ9**, la cual es la resistencia que se necesita emplear.
+-Sumadas todas estas resistencias se obtiene **RT= 16.8kΩ+ 0.2kΩ +1kΩ**,  **RT=18kΩ**, la cual es la resistencia que se necesita emplear.
 
 **18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?**
+
+-Figura 5-73
+
+![figura 5-73](https://user-images.githubusercontent.com/105677231/171334687-6445fcd5-17c5-4852-8369-22b3d62f6b04.JPG)
+
+**20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.**
+
+-Figura 5-74
+
+![fg 5-74](https://user-images.githubusercontent.com/105677231/171335118-13246c46-ef4a-4bd6-b879-48916689e75d.JPG)
+
+**22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?**
+
+-Como la corriente se mantiene en un circuito en serie, se obtiene que **IT= 2.23 mA**
+
+-El valor de un resistor es: **R= I x V**, reemplazando: **R= 5V x 2.23mA**
+
+-Se obtiene que el valor de cada resistencia es: **R= 0.01Ω**
+
+**24. Determine VR1, R2 y R3 en la figura 5-76.**
+
+![f 5-76](https://user-images.githubusercontent.com/105677231/171343673-8a047e91-f4b4-407a-917a-900c1e74d2c2.JPG)
+
 
 
 

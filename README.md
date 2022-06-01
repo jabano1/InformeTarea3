@@ -45,7 +45,15 @@ NRC: 7318
 **Localizacion de Fallas**
 ![L de fallas](https://user-images.githubusercontent.com/105677231/171307874-751fac03-9451-4087-be3f-be3bd58d10fa.JPG)
 ***
-
+**Resistores en Paralelo**
+![Resistores en paralelo](https://user-images.githubusercontent.com/105677231/171315185-ef8853b3-3ef0-4cde-9c57-2a07bd01111c.JPG)
+***
+**Ley de Corrientes de Kirchhof**
+![Ley de corrientes de k](https://user-images.githubusercontent.com/105677231/171315262-02b3e71c-b929-4f2c-a4ef-e543237d1c00.JPG)
+***
+**Fuentes de Corriente en Paralelo**
+![F corrientes en paralelo](https://user-images.githubusercontent.com/105677231/171315302-32abb174-9c6d-4c1f-ace0-c06fd9654b99.JPG)
+***
 
 **3. Explicacion y Resolucion de ejercicios**
 ***

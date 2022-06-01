@@ -113,9 +113,9 @@ NRC: 7318
 
 -Como se tiene resistencias en cantidades ilimitadas, se necesitan:
 
--3 resistencias de 5.6kΩ= **nR=3 x 5.6kΩ** , se obtiene **RE= 16.8kΩ
+-3 resistencias de 5.6kΩ= **nR=3 x 5.6kΩ** , se obtiene **RE= 16.8kΩ**
 
--2 resistencias de 100Ω o 0.1kΩ= **nR=2 x 0.1kΩ** , se obtiene **RE= 0.2kΩ
+-2 resistencias de 100Ω o 0.1kΩ= **nR=2 x 0.1kΩ** , se obtiene **RE= 0.2kΩ**
 
 -1 resistencia de **1kΩ**
 

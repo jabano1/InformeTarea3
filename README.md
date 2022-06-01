@@ -103,6 +103,15 @@ NRC: 7318
 
 **c):** La resistencia total es **RT=R1+R2+R3**, reemplazando **RT=1MΩ+ 0.56MΩ +5.6MΩ +0.68MΩ +10MΩ**, se obtiene: **RT=17.84MΩ**
 
+**14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?**
+
+![14](https://user-images.githubusercontent.com/105677231/171330778-1c67bacd-46ff-45a8-ae9b-e419fcfe86fa.JPG)
+
+**16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kÆ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?**
+
+
+
+
 **4. Video**
 
 

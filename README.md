@@ -145,6 +145,24 @@ NRC: 7318
 
 ![f 5-76](https://user-images.githubusercontent.com/105677231/171343673-8a047e91-f4b4-407a-917a-900c1e74d2c2.JPG)
 
+**26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.**
+
+![f 5-78](https://user-images.githubusercontent.com/105677231/171346525-8745ecfc-de78-432e-9a78-a49595873938.JPG)
+
+**28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?**
+
+- Si las fuentes de voltaje se encuentran conectadas con polaridades opuestas, se restan, entonces se obtiene una fuente de **9V**.
+
+**30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+
+-Segun la ley de voltaje de Kirchhof, la sumatoria de los voltajes en cada resistencia es igual al voltaje de la fuente **Vs= V1+V2+V3**
+
+-El voltaje de la fuente es: **Vs= 26V**
+
+**32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![F 5-80](https://user-images.githubusercontent.com/105677231/171350714-426609b7-1121-4028-8e55-71bdc78d954c.JPG)
+
 
 
 

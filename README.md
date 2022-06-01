@@ -24,12 +24,27 @@ NRC: 7318
 
 **2. Marco Teórico**
 
-
-
-
-
-
-
+**Resistores en Serie**
+![R en serie](https://user-images.githubusercontent.com/105677231/171307571-42e3319c-973c-4a23-8f5a-c914e6ea5fe8.JPG)
+***
+**Voltaje en Serie**
+![v en s](https://user-images.githubusercontent.com/105677231/171307597-fabc64f0-0643-4a51-9b98-50cccb73ebbd.JPG)
+***
+**Ley de Voltaje de Kirchoff**
+![Ley de V kIRCHOFF](https://user-images.githubusercontent.com/105677231/171307668-fd577bbf-7aff-4ae8-923c-334e6174b0ce.JPG)
+***
+**Divisores de Voltaje**
+![divisores de voltaje](https://user-images.githubusercontent.com/105677231/171307721-ef3b1f16-d0c3-4cb3-8f53-6e1c5cf7ed17.JPG)
+***
+**Potencia en Serie**
+![Pot en cSerie](https://user-images.githubusercontent.com/105677231/171307745-9ff3f259-4114-4263-ace2-a4f658361c80.JPG)
+***
+**Medición de Voltaje**
+![M de voltaje](https://user-images.githubusercontent.com/105677231/171307811-b2f349ff-fb47-4c3d-985e-d0328d089bda.JPG)
+***
+**Localizacion de Fallas**
+![L de fallas](https://user-images.githubusercontent.com/105677231/171307874-751fac03-9451-4087-be3f-be3bd58d10fa.JPG)
+***
 
 
 **3. Explicacion y Resolucion de ejercicios**

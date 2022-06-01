@@ -71,7 +71,7 @@ NRC: 7318
 -Entonces la respuesta es: **RN:R12+R8+R6**, la expresión se mantiene ya que no existen valores de resistencia.
 
 **6.¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120Ω?**
-![Ej 6](https://user-images.githubusercontent.com/105677231/171325183-566ebbf4-8382-481e-8a5b-13178d3d6028.JPG)
+![Ej 6](https://user-images.githubusercontent.com/105677231/171325309-4179421d-bc07-451b-9080-f767cddd25fc.JPG)
 
 **8.Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?**
 

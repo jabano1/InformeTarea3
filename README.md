@@ -53,9 +53,12 @@ NRC: 7318
 ***
 **Fuentes de Corriente en Paralelo**
 ![F corrientes en paralelo](https://user-images.githubusercontent.com/105677231/171315302-32abb174-9c6d-4c1f-ace0-c06fd9654b99.JPG)
+***
 
 **3. Explicacion y Resolucion de ejercicios**
-***
+
+**2.Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.**
+
 
 
 **4. Video**

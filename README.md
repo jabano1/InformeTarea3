@@ -109,6 +109,20 @@ NRC: 7318
 
 **16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kÆ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?**
 
+- La resistencia total es: **RT=18KΩ**
+
+-Como se tiene resistencias en cantidades ilimitadas, se necesitan:
+
+-3 resistencias de 5.6kΩ= **nR=3 x 5.6kΩ** , se obtiene **RE= 16.8kΩ
+
+-2 resistencias de 100Ω o 0.1kΩ= **nR=2 x 0.1kΩ** , se obtiene **RE= 0.2kΩ
+
+-1 resistencia de **1kΩ**
+
+-Sumadas todas estas resistencias se obtiene **RT= 16.8kΩ+ 0.2kΩ +1kΩ**, **RT=18kΩ9**, la cual es la resistencia que se necesita emplear.
+
+**18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?**
+
 
 
 

@@ -59,7 +59,18 @@ NRC: 7318
 
 **2.Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.**
 
+-En la figura,todas las resistencias están conectadas en serie. Entonces para poner todos los resistores en serie se colocan puentes de esta forma.
+![en serie](https://user-images.githubusercontent.com/105677231/171322144-cc2e4d3d-fa7a-43b5-889f-de87c82b9ebd.JPG)
 
+- Inicia desde la punta 1 y finaliza en la punta 2.
+
+**4.Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.**
+
+-La resistencia nominal es la suma de todas las resistencia presentes en las dos puntas
+
+-Entonces la respuesta es: **RN:R12+R8+R6**, la expresión se mantiene ya que no existen valores de resistencia.
+
+**6.¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120Ω?
 
 **4. Video**
 

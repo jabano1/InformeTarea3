@@ -1,7 +1,7 @@
 # InformeTarea3
 Nombre: Javier Baño      
 
-Fecha: 26 de mayo de 2022
+Fecha: 02 de junio de 2022
 
 NRC: 7318
 
@@ -53,7 +53,6 @@ NRC: 7318
 ***
 **Fuentes de Corriente en Paralelo**
 ![F corrientes en paralelo](https://user-images.githubusercontent.com/105677231/171315302-32abb174-9c6d-4c1f-ace0-c06fd9654b99.JPG)
-***
 
 **3. Explicacion y Resolucion de ejercicios**
 ***

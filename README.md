@@ -196,6 +196,12 @@ La solucion es:
 
 ![e 5-83](https://user-images.githubusercontent.com/105677231/171526552-bfa48691-3b80-4a76-afdc-f42371a15c3a.JPG)
 
+**38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.**
+
+![f 5-84](https://user-images.githubusercontent.com/105677231/171532979-a4372da5-451c-4821-9225-cc353d7befbe.JPG)
+
+**40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).**
+
 
 
 

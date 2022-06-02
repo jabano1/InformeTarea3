@@ -241,6 +241,11 @@ La solucion es:
 
 **52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?**
 
+![f-591](https://user-images.githubusercontent.com/105677231/171638059-4f3b9ac1-1764-48d8-8500-8c5f113b1241.JPG)
+
+-El voltaje se determinaria, realizando una medicion de voltaje con respecto a tierra. Se pondria la punta negativa del multimetro en la tierra de la fuente y la punta positiva del multimetro se la colocaría en la pata de la resistencia 2, midiendo asi el voltaje en esa resistencia.
+
+**54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
 
 
 

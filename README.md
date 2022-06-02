@@ -187,6 +187,11 @@ La solucion es:
 
 ![F 5-80](https://user-images.githubusercontent.com/105677231/171350714-426609b7-1121-4028-8e55-71bdc78d954c.JPG)
 
+-La solución es:
+
+![32 A](https://user-images.githubusercontent.com/105677231/171658117-68521b4c-c233-4622-9a8f-b12aeb73e301.JPG)
+![32 B](https://user-images.githubusercontent.com/105677231/171658155-9173c267-d521-4851-b9d0-42b8fa0fc5d8.JPG)
+
 
 **34. Encuentre R1, R2 y R3 en la figura 5-82.**
 

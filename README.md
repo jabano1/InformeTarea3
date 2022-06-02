@@ -237,7 +237,10 @@ La solucion es:
 
 
 
-**50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: **
+**50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:**
+
+**52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?**
+
 
 
 

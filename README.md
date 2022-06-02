@@ -274,8 +274,66 @@ La solucion es:
 
 -Como el circuito está en serie, aplicando la ley de ohm, la corriente total del circuito con la resistencia R2 en corto es: **I= 25mA**
 
-**58. Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.**
+**58. Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.**
 
+-Si se presenta un problema ya que el enunciado dice que entre estas dos puntas, el valor de la resistencia es de 19.9 kΩ
+
+-Segun el análisis, en la cara anterior se encuentran conectadas las resistencias, R12,R9 y R3. Mientras que en la cara posterior se encuentran conectadas las resistencias R5 y R3. Por lo tanto se puede concluir que una de estas resistencias puede estar quemada, descartandose en la sumatoria de la resistencia total medida, dando como valor total los 15kΩ. 
+
+**60. Los tres grupos de resistores en serie mostrados en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3a la 5. Se conecta una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Con-
+forme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improviso, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W.
+(a) ¿Qué sucedió?
+(b) Específicamente, ¿qué debe hacerse para arreglar el problema?
+(c) ¿Con qué voltaje ocurrió la falla?**
+
+***
+**CAPITULO 6**
+
+**2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta del circuito impreso.**
+
+![f 6-66](https://user-images.githubusercontent.com/105677231/171675561-9d0579e7-cae3-4ad0-a5a8-f618811daf94.JPG)
+
+- Si se encuentran en paralelo todas las resistencias.
+
+**4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Ω? Hay cuatro resistores, todos de igual valor.**
+
+-Como el circuito está conectado en paralelo, el voltaje se mantiene y la corriente se divide, por lo tanto el voltaje en cualquier punto del circuito va a ser de **12V**.
+
+**6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?**
+
+![f 6-68](https://user-images.githubusercontent.com/105677231/171677639-600d322b-9dcf-4354-9b96-f99fce6b36a2.JPG)
+
+-La solucion es: 
+
+![6](https://user-images.githubusercontent.com/105677231/171733899-af03c66a-d9f1-4bfc-bd50-44fcd04467c8.JPG)
+
+**8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?**
+
+-La solucion es:
+
+![8](https://user-images.githubusercontent.com/105677231/171733962-eadc809b-10b6-4d2d-a7a3-e4f1ee31704f.JPG)
+![8 2](https://user-images.githubusercontent.com/105677231/171733973-bd33cae3-3ce2-4e08-aacb-cb7519a30847.JPG)
+
+**10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?**
+
+-La solución es: 
+
+![10](https://user-images.githubusercontent.com/105677231/171734071-51b86a11-a7ab-458d-bd71-5bb5a7eec8e7.JPG)
+
+**14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.**
+
+-La solución es: 
+
+![14 6](https://user-images.githubusercontent.com/105677231/171734132-e3771183-411b-4ba0-8525-d76d79e31190.JPG)
+
+**16. Calcule RT en cada uno de los circuitos de la figura 6-70.**
+
+![f 6-70](https://user-images.githubusercontent.com/105677231/171730948-011388b7-9e98-40e5-a9e8-2b6afabd12b5.JPG)
+
+-La solución es:
+
+![16 a](https://user-images.githubusercontent.com/105677231/171734221-d4a355d5-f797-4705-9e14-e63da94deed1.JPG)
+![16 b](https://user-images.githubusercontent.com/105677231/171734232-122f723d-261b-4737-bb15-9283a1500376.JPG)
 
 
 **4. Video**

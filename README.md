@@ -345,7 +345,7 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 ![f 6-73](https://user-images.githubusercontent.com/105677231/171738456-fe8bf185-cb55-4008-9960-223f3bd9758b.JPG)
 
-**24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+**24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
 **26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.**
 
@@ -353,6 +353,7 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 **4. Video**
 
+https://youtu.be/ZaKpeE8GrFM
 
 **5. Conclusiones**
 

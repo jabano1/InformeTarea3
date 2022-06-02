@@ -219,6 +219,25 @@ La solucion es:
 
 **40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).**
 
+![f 5-85b](https://user-images.githubusercontent.com/105677231/171549234-f13671ae-a552-4363-b80a-e83d5919face.JPG)
+
+**42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.**
+
+![f 5-87](https://user-images.githubusercontent.com/105677231/171550780-c82c4154-b423-4aa9-bb22-a0085c855aed.JPG)
+
+
+
+**46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?**
+
+-La cantidad total de potencia en un circuito en serie, es igual a la suma de todas las potencias
+
+- Se obtiene: **PT= 50+50+50+50+50**, eL resultado es= **250mW**.
+
+**48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
+
+
+
+**50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: **
 
 
 

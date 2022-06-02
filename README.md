@@ -188,6 +188,14 @@ La solucion es:
 ![F 5-80](https://user-images.githubusercontent.com/105677231/171350714-426609b7-1121-4028-8e55-71bdc78d954c.JPG)
 
 
+**34. Encuentre R1, R2 y R3 en la figura 5-82.**
+
+![f 5-82](https://user-images.githubusercontent.com/105677231/171525172-7f665f98-a190-4934-a6a7-b25ac10af0a4.JPG)
+
+**36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
+
+![e 5-83](https://user-images.githubusercontent.com/105677231/171526552-bfa48691-3b80-4a76-afdc-f42371a15c3a.JPG)
+
 
 
 

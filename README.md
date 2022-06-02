@@ -257,6 +257,20 @@ La solucion es:
 
 **54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?**
 
+-Como el circuito esta conectado en serie, el voltaje se divide para cada una de las resistencias. Se podría considerar la posibilidad de que una parte del circuito se encuentre abierta y solo la resistencia bien conectada mida el voltaje total. O tambien que una resistencia puede estar dañada o quemada dando paso al voltaje total hacia la resistencia R2.
+
+**56. ¿Cuál corriente mediría usted en la figura 5-92(b) si sólo R2 estuviera en cortocircuito?**
+
+![f 5-92 b](https://user-images.githubusercontent.com/105677231/171645808-9b4776dd-5c01-4839-9042-19376d09c984.JPG)
+
+-Como la resistencia R2 en este caso se encuentra en corto, se descarta.
+
+-Entonces la ristencia total del circuito es: **RT= R1+R3+R4+R5**, se obtiene **RT= 400Ω**
+
+-Como el circuito está en serie, aplicando la ley de ohm, la corriente total del circuito con la resistencia R2 en corto es: **I= 25mA**
+
+**58. Se leen 15 kÆ entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.**
+
 
 
 **4. Video**

@@ -192,13 +192,30 @@ La solucion es:
 
 ![f 5-82](https://user-images.githubusercontent.com/105677231/171525172-7f665f98-a190-4934-a6a7-b25ac10af0a4.JPG)
 
-**36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
+-La solución es:
+
+![34](https://user-images.githubusercontent.com/105677231/171547095-82ae44d3-b717-4aa3-aa2e-29e509b69a70.JPG)
+
+**36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.**
 
 ![e 5-83](https://user-images.githubusercontent.com/105677231/171526552-bfa48691-3b80-4a76-afdc-f42371a15c3a.JPG)
+
+La solucion es: 
+
+![36](https://user-images.githubusercontent.com/105677231/171547298-36b63c83-3762-434a-858e-e88727f73a94.JPG)
+![36 2](https://user-images.githubusercontent.com/105677231/171547341-82a2060a-2bff-4073-8855-1284047d05d8.JPG)
+![36 3](https://user-images.githubusercontent.com/105677231/171547351-9b344265-5d12-4371-bf2f-e9b24404b293.JPG)
+
 
 **38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.**
 
 ![f 5-84](https://user-images.githubusercontent.com/105677231/171532979-a4372da5-451c-4821-9225-cc353d7befbe.JPG)
+
+La solucion es:
+
+![38](https://user-images.githubusercontent.com/105677231/171547561-59b70090-7bf6-4dd7-9bad-f7df993556ac.JPG)
+![38 b](https://user-images.githubusercontent.com/105677231/171547566-114f6b44-35df-4b1c-9525-b52dad5eff90.JPG)
+
 
 **40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).**
 

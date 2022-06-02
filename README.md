@@ -335,6 +335,21 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 ![16 a](https://user-images.githubusercontent.com/105677231/171734221-d4a355d5-f797-4705-9e14-e63da94deed1.JPG)
 ![16 b](https://user-images.githubusercontent.com/105677231/171734232-122f723d-261b-4737-bb15-9283a1500376.JPG)
 
+**18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
+
+**20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?**
+
+![f 6-71](https://user-images.githubusercontent.com/105677231/171736905-c5150b25-b002-4c2d-b394-c0ecb1d13ba4.JPG)
+
+**22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
+
+![f 6-73](https://user-images.githubusercontent.com/105677231/171738456-fe8bf185-cb55-4008-9960-223f3bd9758b.JPG)
+
+**24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+**26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.**
+
+
 
 **4. Video**
 

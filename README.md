@@ -337,17 +337,49 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 **18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
 
+-La solución es:
+
+![18](https://user-images.githubusercontent.com/105677231/171758267-5f59341f-9d0f-415f-bfce-b699812762af.JPG)
+
 **20. Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?**
 
 ![f 6-71](https://user-images.githubusercontent.com/105677231/171736905-c5150b25-b002-4c2d-b394-c0ecb1d13ba4.JPG)
+
+-La solución es: 
+
+![20 6](https://user-images.githubusercontent.com/105677231/171758314-8d8388ec-24e4-4593-98ce-8ae57b7cd25d.JPG)
 
 **22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?**
 
 ![f 6-73](https://user-images.githubusercontent.com/105677231/171738456-fe8bf185-cb55-4008-9960-223f3bd9758b.JPG)
 
+-La solución:
+
+![22 A](https://user-images.githubusercontent.com/105677231/171758372-5add576a-15ee-4c10-8583-eeb659ce14fe.JPG)
+![22 B](https://user-images.githubusercontent.com/105677231/171758378-0eadfa2f-606a-4ba7-8073-766198e7339c.JPG)
+
 **24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
+-La solución es:
+
+![24 6](https://user-images.githubusercontent.com/105677231/171758416-eab98568-b509-4759-bc57-db1cca10bce2.JPG)
+
 **26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.**
+
+![f 6-74](https://user-images.githubusercontent.com/105677231/171752269-78ca4070-6b60-4177-aec0-cd8d2c0d4e42.JPG)
+
+-La solución es:
+
+
+**28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.**
+
+![f 6-76](https://user-images.githubusercontent.com/105677231/171752351-8f9384c9-6c61-490a-b861-63f3cadc302a.JPG)
+
+-La solución es:
+
+![28 1](https://user-images.githubusercontent.com/105677231/171758498-3486d2c0-8b10-48ce-85d9-9b472bb4c2f7.JPG)
+![28 2](https://user-images.githubusercontent.com/105677231/171758501-55855326-84ba-4274-b4b2-8a556d505ed7.JPG)
+![28 3](https://user-images.githubusercontent.com/105677231/171758504-95a275f8-2097-41be-be7f-a88a22f7c1b9.JPG)
 
 
 

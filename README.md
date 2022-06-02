@@ -225,6 +225,9 @@ La solucion es:
 
 ![f 5-87](https://user-images.githubusercontent.com/105677231/171550780-c82c4154-b423-4aa9-bb22-a0085c855aed.JPG)
 
+-La solucion es:
+
+![42](https://user-images.githubusercontent.com/105677231/171640912-30f9b3e9-0212-49e4-9e68-f2cb0e5c5e96.JPG)
 
 
 **46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?**
@@ -235,9 +238,16 @@ La solucion es:
 
 **48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
 
+-La solucion es:
 
+![48](https://user-images.githubusercontent.com/105677231/171640986-f783b7e3-732c-4553-88c8-a65cf8895938.JPG)
 
-**50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:**
+**50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente: a)I; b) VT; c) El valor de cada resistor**
+
+-La solucion es:
+
+![50 1](https://user-images.githubusercontent.com/105677231/171641069-5a2c3928-abd4-457d-9cb9-99c3ace77232.JPG)
+![50 2](https://user-images.githubusercontent.com/105677231/171641083-b8ccebf9-8c8e-40d4-9195-df689f8e4a50.JPG)
 
 **52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?**
 
@@ -245,7 +255,7 @@ La solucion es:
 
 -El voltaje se determinaria, realizando una medicion de voltaje con respecto a tierra. Se pondria la punta negativa del multimetro en la tierra de la fuente y la punta positiva del multimetro se la colocaría en la pata de la resistencia 2, midiendo asi el voltaje en esa resistencia.
 
-**54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+**54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?**
 
 
 

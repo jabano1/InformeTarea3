@@ -381,6 +381,20 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 ![28 2](https://user-images.githubusercontent.com/105677231/171758501-55855326-84ba-4274-b4b2-8a556d505ed7.JPG)
 ![28 3](https://user-images.githubusercontent.com/105677231/171758504-95a275f8-2097-41be-be7f-a88a22f7c1b9.JPG)
 
+**30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.**
+
+![f 6-78](https://user-images.githubusercontent.com/105677231/171758897-8db8deb8-1500-427a-9927-b66c55713f6a.JPG)
+
+**a):** Las fuentes de corriente se encuentran en la misma direccion, por lo tanto **RL=1mA+2mA**, se obtiene: **RL=3mA**.
+
+**b):** Las fuentes de corriente se encuentran en diferente direccion, por lo tanto **RL=50µA-40µA**, se obtiene: **RL=10µA**.
+
+**c):** Las fuentes de corriente se encuentran en diferente direccion, por lo tanto **RL=1A-2.5A+2A**, se obtiene: **RL=0.5A**.
+
+**32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?**
+
+![F 6-80](https://user-images.githubusercontent.com/105677231/171759754-03f51a18-72a4-49bb-9252-68f1b21f41e3.JPG)
+
 
 
 **4. Video**

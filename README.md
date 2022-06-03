@@ -438,13 +438,15 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 **48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:**
 
-**a)1 y2:** 
+![6-88](https://user-images.githubusercontent.com/105677231/171783160-59bd3257-c7df-42c9-a8cb-6a47d0746bca.JPG)
 
-**b)2y3:**
+**a)1 y2:** **RT= 1/(0.1+0.45+0.45+0.3+0.05+0.17+0.21+0.14+0.17+1+0.17)** ,se obtiene : **RT=940Ω**
 
-**c)3y4:**
+**b)2y3:** **RT= 1/(0.21+0.21+0.14+0.17+1+0.17)** ,se obtiene : **RT=520Ω**
 
-**d)1y4:**
+**c)3y4:** **RT= 1/(0.21+0.21+0.14+0.17+1+0.17)** ,se obtiene : **RT=520Ω**
+
+**d)1y4:** **RT= 1/(0.1+0.45+0.45+0.3+0.05+1)** ,se obtiene : **RT=425Ω**
 
 ***
 **4. Video**

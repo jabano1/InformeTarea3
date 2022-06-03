@@ -226,6 +226,10 @@ La solucion es:
 
 ![f 5-85b](https://user-images.githubusercontent.com/105677231/171549234-f13671ae-a552-4363-b80a-e83d5919face.JPG)
 
+-La solución es:
+
+![40](https://user-images.githubusercontent.com/105677231/171782072-f05ccd35-fa3e-43fb-ba44-76d2c7b13ea4.JPG)
+
 **42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.**
 
 ![f 5-87](https://user-images.githubusercontent.com/105677231/171550780-c82c4154-b423-4aa9-bb22-a0085c855aed.JPG)
@@ -395,9 +399,18 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 ![F 6-80](https://user-images.githubusercontent.com/105677231/171759754-03f51a18-72a4-49bb-9252-68f1b21f41e3.JPG)
 
+-La solución es:
+
+![32 6](https://user-images.githubusercontent.com/105677231/171782249-6ea80686-45d8-4053-8f82-1bca312e1ae7.JPG)
+
 **34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.**
 
 ![f 6-82](https://user-images.githubusercontent.com/105677231/171769179-e51cd5d2-2792-4e9e-896f-3e32feca1244.JPG)
+
+-La solución es:
+
+![34 6](https://user-images.githubusercontent.com/105677231/171782294-37cf157e-d31d-4ebd-9532-add3d862b034.JPG)
+
 
 **38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
 
@@ -407,17 +420,33 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 **40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
 
+-La solución es:
+
+![40 6](https://user-images.githubusercontent.com/105677231/171782320-2bc0c317-c553-423c-8327-cee4acc28944.JPG)
+
 **44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?**
 
 ![f 6-85](https://user-images.githubusercontent.com/105677231/171773631-ac90a4f4-ed1e-429b-86e9-a857b366da33.JPG)
+
+- La resistencia dañada es la de 1kΩ ya que al momento de quitarla de la sumatoria, para determinar la resistencia total, la corriente que se obtiene es la misma del grafico. Si esta reistencia no se encontrara dañada la corriente total del circuito es de **I=210mA**
 
 **46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?**
 
 ![f 6-86](https://user-images.githubusercontent.com/105677231/171774298-48798e6c-2f2c-4168-88d4-a77840ff821c.JPG)
 
+- Si el amperimetro mide 5.55 mA es porque la resistencia 2 y la resistencia 3 estan quemadas. Al no ser tomadas en cuenta, la corriente total aplicando la ley de ohm es igual a **I= 25V/4.7kΩ** Se obtiene **I=5.55mA**.
+
 **48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:**
 
+**a)1 y2:** 
 
+**b)2y3:**
+
+**c)3y4:**
+
+**d)1y4:**
+
+***
 **4. Video**
 
 https://youtu.be/ZaKpeE8GrFM

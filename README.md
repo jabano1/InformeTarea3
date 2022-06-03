@@ -405,8 +405,17 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 -Entonces se obtiene: **PT= 250mW+ 250mW+ 250mW+ 250mW+ 250mW**, se obtiene: **1250mW**
 
-**40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+**40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
 
+**44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?**
+
+![f 6-85](https://user-images.githubusercontent.com/105677231/171773631-ac90a4f4-ed1e-429b-86e9-a857b366da33.JPG)
+
+**46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?**
+
+![f 6-86](https://user-images.githubusercontent.com/105677231/171774298-48798e6c-2f2c-4168-88d4-a77840ff821c.JPG)
+
+**48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:**
 
 
 **4. Video**
@@ -415,6 +424,13 @@ https://youtu.be/ZaKpeE8GrFM
 
 **5. Conclusiones**
 
+-La relacion que existe entre voltaje, reistencia, corriente y potencia es muy importante al momento de analizar un circuito de cualquier tipo ya que se pueden realizar calculos exactos sobre lo que se quiere obtener.
+
+-Los circuitos en serie mantienen su corriente, mientras que su voltaje cambia. De esta manera podemos resolver varios problemas de la vida real y practicos que serviran para la adquisicion de un mayor conocimiento.
+
+-Los circuitos en paralelo mantienen su voltaje mientras que su corriente se divide.El metodo de solucion de estos circuitos son un poco mas complejos ya que se deben utilizar correctamente las formulas, sin embargo su analisis resulta ser simple con los conocimientos previos.
+
+-La combinacion de circuitos en serie y paralelo se tienen presentes en varias aplicaciones de la vida real, manteniendo el funcionamiento de algunos aparatos electronicos.
 
 **6. Bibliografía**
 

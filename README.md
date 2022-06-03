@@ -395,6 +395,18 @@ forme aumenta el voltaje de la fuente, se observa el incremento correspondiente 
 
 ![F 6-80](https://user-images.githubusercontent.com/105677231/171759754-03f51a18-72a4-49bb-9252-68f1b21f41e3.JPG)
 
+**34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.**
+
+![f 6-82](https://user-images.githubusercontent.com/105677231/171769179-e51cd5d2-2792-4e9e-896f-3e32feca1244.JPG)
+
+**38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
+
+-Al igual que en un circuito en serie, la potencia total es igual a la suma de todas las potencias en los resitores.
+
+-Entonces se obtiene: **PT= 250mW+ 250mW+ 250mW+ 250mW+ 250mW**, se obtiene: **1250mW**
+
+**40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
 
 
 **4. Video**

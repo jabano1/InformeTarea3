@@ -468,3 +468,7 @@ https://youtu.be/ZaKpeE8GrFM
 Floyd, T. M. (2007). 5 Principios de Circuitos Electricos (8.a ed.). Pearson Education.
 
 
+
+![2022_12_15 17_18 Office Lens_page-0001](https://user-images.githubusercontent.com/105677231/207980669-72d40027-e00c-465e-b613-9c851c5ca0d4.jpg)
+
+
